@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Team Select</string>
+
+    <!-- Arrays fixos -->
+    <string-array name="array_tamanho_quadra">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="array_posicao">
+        <item>Portero</item>
+        <item>Defensor</item>
+        <item>Mediocampista</item>
+        <item>Delanteiro</item>
+    </string-array>
+
+    <string name="nome">Nombre</string>
+    <string name="posicao">Posición</string>
+
+    <!-- Botões -->
+    <string name="salvar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="deletar">Borrar</string>
+    <string name="novo">Nuevo</string>
+
+    <!-- Títulos -->
+    <string name="listaJogadores">Lista de Jugadores</string>
+    <string name="listaPartidas">Lista de Partidos</string>
+    <string name="cadastrarJogador">Registrar Jugador</string>
+    <string name="editarJogador">Editar Jugador</string>
+    <string name="cadastrarPartida">Registrar Partido</string>
+    <string name="editarPartida">Editar Partido</string>
+
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Escala Time</string>
+
+    <!-- Arrays fixos -->
+    <string-array name="array_tamanho_quadra">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="array_posicao">
+        <item>Goleiro</item>
+        <item>Defensor</item>
+        <item>Meio Campo</item>
+        <item>Atacante</item>
+    </string-array>
+
+    <string name="nome">Nome</string>
+    <string name="posicao">Posição</string>
+
+    <!-- Botões -->
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="deletar">Deletar</string>
+    <string name="novo">Novo</string>
+
+    <!-- Títulos -->
+    <string name="listaJogadores">Lista de Jogadores</string>
+    <string name="listaPartidas">Lista de Partidas</string>
+    <string name="cadastrarJogador">Cadastrar Jogador</string>
+    <string name="editarJogador">Editar Jogador</string>
+    <string name="cadastrarPartida">Cadastrar Partida</string>
+    <string name="editarPartida">Editar Partida</string>
+
+</resources>

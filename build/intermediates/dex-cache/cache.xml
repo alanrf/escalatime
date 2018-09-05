@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\alan\AndroidStudioProjects\EscalaTime\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\alan\AndroidStudioProjects\EscalaTime\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_e94131f669ddfd98d8a079d402bc6008b71b407d.jar" />
+    </item>
+    <item
+        jar="C:\Users\alan\AndroidStudioProjects\EscalaTime\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\alan\AndroidStudioProjects\EscalaTime\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_9f7a4b3267d8b5f36a41dead7685a66129daa343.jar" />
+    </item>
+    <item
+        jar="C:\Users\alan\AndroidStudioProjects\EscalaTime\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\alan\AndroidStudioProjects\EscalaTime\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0_359b59cce2da1999e457ecf53c5a16620d88aeca.jar" />
+    </item>
+    <item
+        jar="C:\Users\alan\AndroidStudioProjects\EscalaTime\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\alan\AndroidStudioProjects\EscalaTime\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0_e58157c41683ee1cbbc45188c7036caf0faa6118.jar" />
+    </item>
+    <item
+        jar="C:\Users\alan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\alan\AndroidStudioProjects\EscalaTime\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_a288d3a7960cda580351202c8e4e3eb6284fce53.jar" />
+    </item>
+    <item
+        jar="C:\Users\alan\AndroidStudioProjects\EscalaTime\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\alan\AndroidStudioProjects\EscalaTime\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0_dd80cf8fa2de751a0302a8a1fd6e168e5280f1fc.jar" />
+    </item>
+
+</items>
